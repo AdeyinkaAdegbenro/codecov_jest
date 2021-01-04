@@ -1,0 +1,23 @@
+{
+  "name": "codecov_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeyinkaAdegbenro/codecov_jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeyinkaAdegbenro/codecov_jest/issues"
+  },
+  "homepage": "https://github.com/AdeyinkaAdegbenro/codecov_jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
