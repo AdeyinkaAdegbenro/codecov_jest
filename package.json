@@ -4,8 +4,7 @@
   "description": "",
   "main": "hello_world.js",
   "scripts": {
-    "test": "jest",
-    "coverage": "jest --coverage"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
